@@ -13,7 +13,7 @@ fn openWith(path: []const u8, app: []const u8) Error!void;
 ```
 
 ### References
- - [liburlencoding](https://github.com/thechampagne/libopen)
+ - [libopen](https://github.com/thechampagne/libopen)
 
 ### License
 
